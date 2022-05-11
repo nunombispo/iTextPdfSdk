@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTextPdfSdk", "iTextPdfSdk\iTextPdfSdk.csproj", "{F5EF8F93-0367-483D-ADA4-294B9F88F340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EF8F93-0367-483D-ADA4-294B9F88F340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EF8F93-0367-483D-ADA4-294B9F88F340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EF8F93-0367-483D-ADA4-294B9F88F340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EF8F93-0367-483D-ADA4-294B9F88F340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0060F45A-0ACA-4A16-83F6-7CC6FF0376D7}
+	EndGlobalSection
+EndGlobal
